@@ -2,7 +2,7 @@
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/tree.jpg
+#  overlay_image: /assets/images/tree.jpg
 title: "Gagan Kanojia <br /> <small>  <small>  Ph.D. Candidate, IIT Gandhinagar <small> <br /> Computer Vision | Deep Learning | Computational Photography <small> <small> "
 excerpt: ""
 toc: true
