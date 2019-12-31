@@ -16,11 +16,12 @@ redirect_from:
 <h3> News and Highlights</h3> 
 
 | ------------------------------------------- | ----------------------------------------------------- |
+| December 2019 | Won best oral paper runner-up award at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
 | November 2019 | Gave talk on *Motion and Multi-view Applications in Computer Vision* at  *NASSCOM CoE xChange Technical Workshop: Decision Making in Computer Vision*
-| October 2019 | 1 paper accepted at NCVPRIPG'19|
-| September 2019 | 1 paper accepted at WACV'20|
-| April 2019 | Awarded travel grant from TCS to attend CVPR'19
-| April 2019 | 1 paper accepted at CVPRW'19
+| October 2019 | 1 paper accepted at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
+| September 2019 | 1 paper accepted at [WACV'20](http://wacv20.wacv.net/)
+| April 2019 | Awarded travel grant from TCS to attend [CVPR'19](http://cvpr2019.thecvf.com/)
+| April 2019 | 1 paper accepted at [CVPRW'19](http://www.vap.aau.dk/cvsports/?page_id=972)
 
 
 
@@ -35,5 +36,6 @@ redirect_from:
 
 <h3> Awards</h3> 
 
+- <small> Best Oral Paper Runner-up at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
 - <small> TCS Research Scholarship, July'16-July'20
 
