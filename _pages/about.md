@@ -16,6 +16,7 @@ redirect_from:
 <h3> News and Highlights</h3> 
 
 | ------------------------------------------- | ----------------------------------------------------- |
+| January 2019 | 1 paper accepted at [NCC 2020](http://www.ncc2020.iitkgp.ac.in/)
 | December 2019 | Won best oral paper runner-up award at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
 | November 2019 | Gave talk on *Motion and Multi-view Applications in Computer Vision* at  *NASSCOM CoE xChange Technical Workshop: Decision Making in Computer Vision*
 | October 2019 | 1 paper accepted at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
@@ -38,4 +39,5 @@ redirect_from:
 
 - <small> Best Oral Paper Runner-up at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
 - <small> TCS Research Scholarship, July'16-July'20
+- <small> The Spot Award at eClerx Services Ltd., September 2014
 
