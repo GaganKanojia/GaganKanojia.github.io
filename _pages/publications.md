@@ -31,7 +31,7 @@ gallery1:
     image_path: /assets/images/bio-photo.jpg
 ---
 
-{% include gallery_feature_row id="gallery8" caption="<h3><a href=''>Simultaneous Detection and Removal of Dynamic Objects in Multi-view Images.</a></h3> <br/> Gagan Kanojia, Shanmuganathan Raman<br/>IEEE Winter Conference on Applications of Computer Vision (WACV),2020" %}
+{% include gallery_feature_row id="gallery8" caption="<h3><a href='https://arxiv.org/abs/1912.05591'>Simultaneous Detection and Removal of Dynamic Objects in Multi-view Images.</a></h3> <br/> Gagan Kanojia, Shanmuganathan Raman<br/>IEEE Winter Conference on Applications of Computer Vision (WACV),2020" %}
 
 {% include gallery_feature_row id="gallery7" caption="<h3><a href='http://openaccess.thecvf.com/content_CVPRW_2019/html/CVSports/Kanojia_Attentive_Spatio-Temporal_Representation_Learning_for_Diving_Classification_CVPRW_2019_paper.html'>Attentive spatio-temporal representation learning for diving classification</a></h3> <br/> Gagan Kanojia, Sudhakar Kumawat, Shanmuganathan Raman<br/>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops ,2019 [code](https://github.com/GaganKanojia/AttentiveRepLearning_CVPRW19)" %}
 
