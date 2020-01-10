@@ -33,11 +33,11 @@ redirect_from:
 
 <h3> Work Experience</h3> 
 
-- <small> Worked as *Senior Software Developer* at eClerx Services Limited during May'14-May'15
+- <small> Worked as *Senior Software Developer* at [eClerx Services Limited](https://eclerx.com/) during May'14-May'15
 
 <h3> Awards</h3> 
 
 - <small> Best Oral Paper Runner-up at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
 - <small> TCS Research Scholarship, July'16-July'20
-- <small> The Spot Award at eClerx Services Ltd., September 2014
+- <small> The Spot Award at [eClerx Services Limited](https://eclerx.com/), September 2014
 
