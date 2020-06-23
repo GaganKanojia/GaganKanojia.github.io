@@ -16,9 +16,9 @@ title_separator          : "-"
 subtitle                 : ""
 name                     : &name "Gagan Kanojia" # &name is a YAML anchor which can be *referenced later
 description              : &description ""
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gagankanojia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : /about
-repository               : "mmistakes/minimal-mistakes"
+repository               : "GaganKanojia/GaganKanojia.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -64,17 +64,17 @@ atom_feed:
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia
-algolia:
-  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-  index_name             : minimal_mistakes # YOUR_INDEX_NAME
-  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : true # true (default), false
-  files_to_exclude:
-    - _posts/2017-11-28-post-exclude-search.md
+#search_provider          : algolia # lunr (default), algolia
+#algolia:
+#  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
+#  index_name             : minimal_mistakes # YOUR_INDEX_NAME
+#  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
+#  powered_by             : true # true (default), false
+#  files_to_exclude:
+#    - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : "5rFakDNzd91wPnkJ8hCzmtBkDzEI_VOuE_SHRxNeXLQ" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
