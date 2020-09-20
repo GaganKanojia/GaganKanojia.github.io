@@ -5,9 +5,12 @@ excerpt: ""
 #toc: true
 author_profile: true
 
+gallery9:
+  - url: 'https://openaccess.thecvf.com/content_WACV_2020/html/Kanojia_Simultaneous_Detection_and_Removal_of_Dynamic_Objects_in_Multi-view_Images_WACV_2020_paper.html'
+    image_path: /assets/images/wacv.gif 
 gallery8:
-  - url: 'https://arxiv.org/abs/1912.05591'
-    image_path: /assets/images/wacv.gif
+  - url: 'https://ieeexplore.ieee.org/abstract/document/9056062'
+    image_path: /assets/images/bio-photo.jpg
 gallery7:
   - url: 'http://openaccess.thecvf.com/content_CVPRW_2019/html/CVSports/Kanojia_Attentive_Spatio-Temporal_Representation_Learning_for_Diving_Classification_CVPRW_2019_paper.html'
     image_path: /assets/images/diving.gif
@@ -31,11 +34,13 @@ gallery1:
     image_path: /assets/images/bio-photo.jpg
 ---
 
-{% include gallery_feature_row id="gallery8" caption="<h3><a href='https://arxiv.org/abs/1912.05591'>Simultaneous Detection and Removal of Dynamic Objects in Multi-view Images.</a></h3> <br/> Gagan Kanojia, Shanmuganathan Raman<br/>IEEE Winter Conference on Applications of Computer Vision (WACV),2020 [pdf](http://GaganKanojia.github.io/files/WACV2020.pdf)" %}
+{% include gallery_feature_row id="gallery9" caption="<h3><a href='https://openaccess.thecvf.com/content_WACV_2020/html/Kanojia_Simultaneous_Detection_and_Removal_of_Dynamic_Objects_in_Multi-view_Images_WACV_2020_paper.html'>Simultaneous Detection and Removal of Dynamic Objects in Multi-view Images.</a></h3> <br/> Gagan Kanojia, Shanmuganathan Raman<br/>IEEE Winter Conference on Applications of Computer Vision (WACV),2020 [pdf](http://GaganKanojia.github.io/files/WACV2020.pdf)" %}
+
+{% include gallery_feature_row id="gallery8" caption="<h3><a href='https://ieeexplore.ieee.org/abstract/document/9056062'>MIC-GAN: multi-view assisted image completion using conditional generative adversarial networks.</a></h3> <br/> Gagan Kanojia, Shanmuganathan Raman<br/>National Conference on Communications (NCC),2020 [pdf](http://GaganKanojia.github.io/files/NCC2020.pdf)" %}
 
 {% include gallery_feature_row id="gallery7" caption="<h3><a href='http://openaccess.thecvf.com/content_CVPRW_2019/html/CVSports/Kanojia_Attentive_Spatio-Temporal_Representation_Learning_for_Diving_Classification_CVPRW_2019_paper.html'>Attentive spatio-temporal representation learning for diving classification</a></h3> <br/> Gagan Kanojia, Sudhakar Kumawat, Shanmuganathan Raman<br/>IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops ,2019 [pdf](http://GaganKanojia.github.io/files/CVPRW2019.pdf) [code](https://github.com/GaganKanojia/AttentiveRepLearning_CVPRW19)" %}
 
-{% include gallery_feature_row id="gallery6" caption="<h3><a href='https://arxiv.org/abs/1909.03309'>Exploring Temporal Differences in 3D Convolutional Neural Networks.</a></h3> <br/> Gagan Kanojia, Sudhakar Kumawat, Shanmuganathan Raman<br/>National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG),2019 [pdf](http://GaganKanojia.github.io/files/NCVPRIPG2019.pdf) [code](https://github.com/GaganKanojia/SSA-ResNet)" %}
+{% include gallery_feature_row id="gallery6" caption="<h3><a href='https://arxiv.org/abs/1909.03309'>Exploring Temporal Differences in 3D Convolutional Neural Networks.</a></h3> <br/> Gagan Kanojia, Sudhakar Kumawat, Shanmuganathan Raman<br/>National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG),2019 [pdf](http://GaganKanojia.github.io/files/NCVPRIPG2019.pdf) [poster](http://GaganKanojia.github.io/files/NCVPRIPG2019_poster.pdf) [code](https://github.com/GaganKanojia/SSA-ResNet)" %}
 
 {% include gallery_feature_row id="gallery5" caption="<h3><a href='https://www.sciencedirect.com/science/article/pii/S0167865518309024'>DeepImSeq: Deep image sequencing for unsynchronized cameras</a></h3> <br/> Gagan Kanojia, Shanmuganathan Raman<br/>Pattern Recognition Letters,2019" %}
 
