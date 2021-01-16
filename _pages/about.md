@@ -31,7 +31,7 @@ redirect_from:
 
 <h3> Education</h3> 
 
-- <small> Ph.D., Electrical Engineering, [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/), May'15-Present.
+- <small> Ph.D., Electrical Engineering, [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/), May'15-June'20.
 - <small> B.Tech., Electrical Engineering with a minor in Computer Science and Engineering, [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/), July'10-May'14.
 
 <h3> Work Experience</h3> 
