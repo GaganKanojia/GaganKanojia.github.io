@@ -5,20 +5,21 @@ header:
   overlay_image: /assets/images/DSC00123.JPG
 title: "Gagan Kanojia <br /> <small>  <small>  Research Engineer II, OLA Electric <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
 excerpt: ""
-<!-- toc: True
-toc_label: Table of Contents -->
+toc: false
+<!-- toc_label: Table of Contents -->
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+  
+<h3> About Me</h3> 
 <small> I am currently working as a Research Engineer II at Ola Electric Mobility Pvt. Ltd. I completed my doctoral dissertation in the Electrical Engineering discipline at [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/) under the supervision of [Prof. Shanmuganathan Raman](http://people.iitgn.ac.in/~shanmuga/index.html). My research interests lie in Deep Learning, Computer Vision, and Image Processing. During my Ph.D., I worked on problems which involve moving objects present in videos or images captured from different view-points. I am actively working with deep neural networks for images, videos, and image sequences. I have worked on a variety of computer vision related problems like action recognition, dynamic object detection, image sequencing, and image segmentation. I also like to explore the advantages of using multiple images of a scene over a single image in different scenarios.
   
 <h3> News and Highlights</h3> 
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | -------------------------------------- | ----------------------------------------------------- |
-| October 2020 | Successfully defended my Ph.D. dissertation |
+| <nobr> October 2020 </nobr> | Successfully defended my Ph.D. dissertation |
 | August 2020 | Joined OLA Electric as a Research Engineer II|
 | June 2020 | Submitted my Ph.D. dissertation |
 | January 2020 | 1 paper accepted at [NCC 2020](http://www.ncc2020.iitkgp.ac.in/)
