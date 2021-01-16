@@ -1,9 +1,10 @@
 ---
 permalink: /
-header:
+header: ""
+<!-- header:
   overlay_color: "#5e616c"
-  <!-- overlay_image: /assets/images/DSC00123.JPG -->
-title: "Gagan Kanojia <br /> <small>  <small>  Research Engineer II, OLA Electric <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> " 
+  overlay_image: /assets/images/DSC00123.JPG 
+title: "Gagan Kanojia <br /> <small>  <small>  Research Engineer II, OLA Electric <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> " -->
 excerpt: ""
 toc: false
 <!-- toc_label: Table of Contents -->
