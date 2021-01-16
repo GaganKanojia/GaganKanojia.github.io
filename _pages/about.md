@@ -5,7 +5,8 @@ header:
   overlay_image: /assets/images/DSC00123.JPG
 title: "Gagan Kanojia <br /> <small>  <small>  Research Engineer II, OLA Electric <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
 excerpt: ""
-toc: false
+toc: True
+toc_label: Table of Contents
 author_profile: true
 redirect_from: 
   - /about/
