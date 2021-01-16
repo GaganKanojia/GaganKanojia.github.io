@@ -5,8 +5,8 @@ header:
   overlay_image: /assets/images/DSC00123.JPG
 title: "Gagan Kanojia <br /> <small>  <small>  Research Engineer II, OLA Electric <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
 excerpt: ""
-toc: True
-toc_label: Table of Contents
+<!-- toc: True
+toc_label: Table of Contents -->
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,8 @@ redirect_from:
   
 <h3> News and Highlights</h3> 
 
-| ------------------------------------------------------------------ | ----------------------------------------------------- |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| -------------------------------------- | ----------------------------------------------------- |
 | October 2020 | Successfully defended my Ph.D. dissertation |
 | August 2020 | Joined OLA Electric as a Research Engineer II|
 | June 2020 | Submitted my Ph.D. dissertation |
