@@ -15,7 +15,7 @@ redirect_from:
   
 <h3> News and Highlights</h3> 
 
-| ------------------------------------------- | ----------------------------------------------------- |
+| ------------------------------------------------------------------ | ----------------------------------------------------- |
 | October 2020 | Successfully defended my Ph.D. dissertation |
 | August 2020 | Joined OLA Electric as a Research Engineer II|
 | June 2020 | Submitted my Ph.D. dissertation |
