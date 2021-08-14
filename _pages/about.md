@@ -3,7 +3,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/DSC00123.JPG 
-title: "Gagan Kanojia <br /> <small>  <small>  Research Engineer II, OLA Electric <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
+title: "Gagan Kanojia <br /> <small>  <small> Technical Lead @ THRSL <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
 excerpt: ""
 toc: false
 <!-- toc_label: Table of Contents -->
@@ -14,13 +14,14 @@ redirect_from:
 ---
   
 <h3> About Me</h3> 
-<small> I am currently working as a Research Engineer II at Ola Electric Mobility Pvt. Ltd. Here, I mainly work on computer vision related problems which involve monocular videos and require computationally efficient solutions.<br /> 
+<small> I am currently working as a Technical Lead at The Hi-tech Robotic Systemz Ltd.. Here, I am working on computer vision related problems which involves monocular videos and 3D point clouds. Prior to this, I was working with OLA Electric Mobility Pvt. Ltd. At OLA Electric, I mainly worked on computer vision related problems which require computationally efficient solutions using monocular videos and images.<br /> 
 I completed my doctoral dissertation in the Electrical Engineering discipline at [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/) under the supervision of [Prof. Shanmuganathan Raman](http://people.iitgn.ac.in/~shanmuga/index.html). My research interests lie in Deep Learning, Computer Vision, and Image Processing. During my Ph.D., I worked on problems which involve moving objects present in videos or images captured from different view-points. <br /> 
 I am actively working with deep neural networks for images, videos, and image sequences. I have worked on a variety of computer vision related problems like action recognition, dynamic object detection, image sequencing, and image segmentation. I also like to explore the advantages of using multiple images of a scene over a single image in different scenarios.
   
 <h3> News and Highlights</h3> 
 
 | -------------------------------------- | ----------------------------------------------------- |
+| <nobr> July 2021: </nobr> | Joined The Hi-tech Robotic Systemz Ltd. as a Technical Lead |
 | <nobr> October 2020: </nobr> | Successfully defended my Ph.D. dissertation |
 | <nobr> August 2020: </nobr> | Joined OLA Electric as a Research Engineer II|
 | <nobr> June 2020: </nobr> | Submitted my Ph.D. dissertation |
@@ -41,7 +42,8 @@ I am actively working with deep neural networks for images, videos, and image se
 
 <h3> Work Experience</h3> 
 
-- <small> Ola Electric Mobility Pvt. Ltd, *Research Engineer II*, August'20-Present
+- <small> The Hi-tech Robotic Systemz Ltd., *Technical Lead*, July'21-Present
+- <small> Ola Electric Mobility Pvt. Ltd, *Research Engineer II*, August'20-June'21
 - <small> eClerx Services Limited, *Senior Software Developer*, May'14-May'15
 
 <h3> Awards</h3> 
