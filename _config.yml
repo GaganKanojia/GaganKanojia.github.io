@@ -108,8 +108,8 @@ naver_site_verification  :
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Research Engineer-II @ OLA Electric"
-  location         : "Bengaluru, Karnataka, India"
+  bio              : "Technical Lead @ THRSL"
+  location         : "Gurugram, Haryana, India"
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
