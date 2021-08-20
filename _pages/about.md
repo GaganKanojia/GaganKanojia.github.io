@@ -3,7 +3,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/DSC00123.JPG 
-title: "Gagan Kanojia <br /> <small>  <small> Technical Lead @ THRSL <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
+title: "Gagan Kanojia <br /> <small> <small> <br /> Deep Learning | Computer Vision | Image Processing <small> <small> "
 excerpt: ""
 toc: false
 <!-- toc_label: Table of Contents -->
