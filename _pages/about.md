@@ -14,16 +14,16 @@ redirect_from:
 ---
   
 <h3> About Me</h3> 
-<small> I am currently working as a Technical Lead in Computer Vision at [The Hi-tech Robotic Systemz Ltd.](https://thrsl.ai/). Here, I am working on computer vision related problems which involves monocular videos and 3D point clouds. Prior to this, I was working with [Ola Electric Mobility Pvt. Ltd](https://olaelectric.com/). At OLA Electric, I mainly worked on computer vision related problems which require computationally efficient solutions using monocular videos and images.<br /> 
+<small> I am currently working as Technical Lead in Computer Vision at [The Hi-tech Robotic Systemz Ltd.](https://thrsl.ai/). Here, I am working on computer vision related problems which involves monocular videos and 3D point clouds. Prior to this, I was working with [Ola Electric Mobility Pvt. Ltd](https://olaelectric.com/) as Research Engineer II. At OLA Electric, I mainly worked on computer vision related problems which require computationally efficient solutions using monocular videos and images.<br /> 
 I completed my doctoral dissertation in the Electrical Engineering discipline at [Indian Institute of Technology Gandhinagar](https://www.iitgn.ac.in/) under the supervision of [Prof. Shanmuganathan Raman](http://people.iitgn.ac.in/~shanmuga/index.html). My research interests lie in Deep Learning, Computer Vision, and Image Processing. During my Ph.D., I worked on problems which involve moving objects present in videos or images captured from different view-points. <br /> 
 I am actively working with deep neural networks for images, videos, and image sequences. I have worked on a variety of computer vision related problems like action recognition, dynamic object detection, image sequencing, and image segmentation. I also like to explore the advantages of using multiple images of a scene over a single image in different scenarios.
   
 <h3> News and Highlights</h3> 
 
 | -------------------------------------- | ----------------------------------------------------- |
-| <nobr> July 2021: </nobr> | Joined [The Hi-tech Robotic Systemz Ltd.](https://thrsl.ai/) as a Technical Lead in Computer Vision |
+| <nobr> July 2021: </nobr> | Joined [The Hi-tech Robotic Systemz Ltd.](https://thrsl.ai/) as Technical Lead in Computer Vision |
 | <nobr> October 2020: </nobr> | Successfully defended my Ph.D. dissertation |
-| <nobr> August 2020: </nobr> | Joined [Ola Electric Mobility Pvt. Ltd](https://olaelectric.com/) as a Research Engineer II|
+| <nobr> August 2020: </nobr> | Joined [Ola Electric Mobility Pvt. Ltd](https://olaelectric.com/) as Research Engineer II|
 | <nobr> June 2020: </nobr> | Submitted my Ph.D. dissertation |
 | <nobr> January 2020: </nobr> | 1 paper accepted at [NCC 2020](http://www.ncc2020.iitkgp.ac.in/)
 | <nobr> December 2019: </nobr> | Won best oral paper runner-up award at [NCVPRIPG'19](http://ncvpripg.kletech.ac.in/)
