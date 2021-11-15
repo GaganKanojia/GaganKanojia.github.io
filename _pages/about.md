@@ -42,7 +42,7 @@ I am actively working with deep neural networks for images, videos, and image se
 
 <h3> Work Experience</h3> 
 
-- <small> [The Hi-tech Robotic Systemz Ltd.](https://thrsl.ai/), *Technical Lead-Computer Vision*, July'21-Present
+- <small> [The Hi-tech Robotic Systemz Ltd.](https://thrsl.ai/), *Technical Lead - Computer Vision*, July'21-Present
 - <small> [Ola Electric Mobility Pvt. Ltd](https://olaelectric.com/), *Research Engineer II*, August'20-June'21
 - <small> [eClerx Services Limited](https://eclerx.com/), *Senior Software Developer*, May'14-May'15
 
